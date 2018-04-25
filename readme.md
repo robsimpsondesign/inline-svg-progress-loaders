@@ -1,6 +1,6 @@
 # 40 adaptable progress loaders using inline SVG and CSS
 
-> Basic atomic design boilerplate to kickstart new front-end resource projects for [https://www.robsimpson.me](https://www.robsimpson.me/tutorials/inline-svg-progress-loaders/)
+> Learn the fundamentals of working with inline SVG strokes to create some custom progress loaders and take these techniques and apply them to other areas of the web. [https://www.robsimpson.me/tutorials/inline-svg-progress-loaders/](https://www.robsimpson.me/tutorials/inline-svg-progress-loaders/)
 
 ## Getting Started
 
